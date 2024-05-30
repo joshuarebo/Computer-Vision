@@ -1,0 +1,19 @@
+numpy
+opencv-python
+pillow
+torch
+torchvision
+tensorflow
+matplotlib
+scikit-learn
+pycocotools
+pandas
+# YOLOv5 dependencies
+pyyaml>=5.3
+seaborn
+tqdm
+# Mask R-CNN dependencies (Matterport implementation)
+imgaug
+IPython[all]
+scikit-image
+h5py
